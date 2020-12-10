@@ -11,7 +11,7 @@ body
 {font-size: 19px; font-style: italic;}
 
 .first_post, .post 
-{background: rgb(88, 105, 180); margin: 0; margin-bottom: 15px; padding-left: 10px; padding-top: 0px;
+{background: rgb(88, 105, 180); margin: 0; margin-bottom: 10px; padding-left: 10px; padding-top: 0px;
 border: 2px rgb(97, 42, 94); border-style: solid; border-radius: 10px;}
 
 ul li a {color: blue;}
